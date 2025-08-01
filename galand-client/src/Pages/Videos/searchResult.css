@@ -1,0 +1,7 @@
+table > tbody > tr > td:nth-child(5){
+  display: flex;
+  justify-content: flex-end;
+}
+table > tbody > tr > td:nth-child(5) > a{
+  margin: unset !important;
+}
